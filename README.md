@@ -23,6 +23,12 @@ Outside of the UCG repo, much of the team's discussion happens [in the `#t-opsem
 
 [zulip]: https://rust-lang.zulipchat.com/#narrow/stream/136281-t-opsem
 
+### Meetings
+
+The team holds weekly meetings on jitsi: <https://meet.jit.si/ucg-rust>. The meeting is currently
+scheduled for Tuesdays at noon, Boston time. You can see what time that is in your timezone
+[here](https://everytimezone.com/s/53a200c0).
+
 ## Code of Conduct and licensing
 
 All interactions on this repository (whether on issues, PRs, or
