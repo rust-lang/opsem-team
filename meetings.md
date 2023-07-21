@@ -23,11 +23,17 @@ taking notes.
 
 #### Upcoming Meetings
 
-* 2023-06-13: UCG Backlog Bonanza
-* 2023-06-06: UCG Backlog Bonanza
+* 2023-08-08: UCG Backlog Bonanza
+* 2023-08-01: UCG Backlog Bonanza
+* 2023-07-25: UCG Backlog Bonanza
 
 #### Past Meetings
 
+* 2023-07-11: Documentation and resources for unsafe code. [Issue](https://github.com/rust-lang/opsem-team/issues/4)
+* 2023-07-04: Valid uses of addr_of! (and requirements of places). [Issue](https://github.com/rust-lang/opsem-team/issues/9)
+* 2023-06-27: inbounds requirements. [Issue](https://github.com/rust-lang/opsem-team/issues/10)
+* 2023-06-13: UCG Backlog Bonanza
+* 2023-06-06: UCG Backlog Bonanza
 * 2023-05-30: Spec validation. [Issue](https://github.com/rust-lang/opsem-team/issues/7). [Minutes](https://hackmd.io/ty4NFkQfQjunJn_qTowOtw).
     * Champion: Jakob
 * 2023-05-23: UCG Backlog Bonanza. [Minutes](https://hackmd.io/@2S4Crel_Q9OwC_vamlwXmw/HyUe4w5rh/edit).
