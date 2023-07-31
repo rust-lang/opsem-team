@@ -28,6 +28,10 @@ Outside of the UCG repo, much of the team's discussion happens [in the `#t-opsem
 The team holds weekly meetings. For details around scheduling and format, see the [dedicated
 page](meetings.md).
 
+### FCPs
+
+If you want to get an idea of which decisions have already been made, [here is a list of FCPs](fcps.md).
+
 ## Code of Conduct and licensing
 
 All interactions on this repository (whether on issues, PRs, or
