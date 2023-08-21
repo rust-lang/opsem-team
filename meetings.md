@@ -23,12 +23,16 @@ taking notes.
 
 #### Upcoming Meetings
 
-* 2023-08-08: UCG Backlog Bonanza
-* 2023-08-01: UCG Backlog Bonanza
-* 2023-07-25: UCG Backlog Bonanza
+* 2023-08-22: When accessing a field that is at a "very aligned" offset, can the required alignment be higher than the type of the field indicates? [Issue](https://github.com/rust-lang/opsem-team/issues/11)
+* 2023-08-29: Do we allow zero-sized memory accesses? [Issue](https://github.com/rust-lang/opsem-team/issues/12)
+* 2023-09-05: UCG backlog bonanza
+* 2023-09-12: Do `Vec` and `Box` have an aliasing requirement? [Issue](https://github.com/rust-lang/opsem-team/issues/14)
 
 #### Past Meetings
 
+* 2023-08-08: UCG Backlog Bonanza
+* 2023-08-01: UCG Backlog Bonanza
+* 2023-07-25: UCG Backlog Bonanza
 * 2023-07-11: Documentation and resources for unsafe code. [Issue](https://github.com/rust-lang/opsem-team/issues/4)
 * 2023-07-04: Valid uses of addr_of! (and requirements of places). [Issue](https://github.com/rust-lang/opsem-team/issues/9)
 * 2023-06-27: inbounds requirements. [Issue](https://github.com/rust-lang/opsem-team/issues/10)
