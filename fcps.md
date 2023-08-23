@@ -9,3 +9,5 @@ guaranteed.
 - The validity invariant of integers, floats, bool, thin raw pointers, and char is [as documented here](https://github.com/rust-lang/unsafe-code-guidelines/issues/439).
 - The validity invariant of function pointers is [as documented here](https://github.com/rust-lang/unsafe-code-guidelines/issues/440).
 - Typed copies [reset all padding bytes to uninitialized memory](https://github.com/rust-lang/unsafe-code-guidelines/issues/301#issuecomment-1661617803).
+- Layout [cannot change at runtime](https://github.com/rust-lang/unsafe-code-guidelines/issues/97).
+- Unsafe code gets to [assume that `size == stride` in arrays](https://github.com/rust-lang/unsafe-code-guidelines/issues/176).
