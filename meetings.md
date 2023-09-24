@@ -23,13 +23,16 @@ taking notes.
 
 #### Upcoming Meetings
 
-* 2023-08-22: When accessing a field that is at a "very aligned" offset, can the required alignment be higher than the type of the field indicates? [Issue](https://github.com/rust-lang/opsem-team/issues/11)
-* 2023-08-29: Do we allow zero-sized memory accesses? [Issue](https://github.com/rust-lang/opsem-team/issues/12)
-* 2023-09-05: UCG backlog bonanza
-* 2023-09-12: Do `Vec` and `Box` have an aliasing requirement? [Issue](https://github.com/rust-lang/opsem-team/issues/14)
+* 2023-10-10: UCG Backlog Bonanza
+* 2023-10-03: UCG Backlog Bonanza (or no meeting due to expected low attendance)
+* 2023-09-26: Behavior of `_` in match patterns. [Issue](https://github.com/rust-lang/opsem-team/issues/16)
 
 #### Past Meetings
 
+* 2023-09-12: Do `Vec` and `Box` have an aliasing requirement? [Issue](https://github.com/rust-lang/opsem-team/issues/14)
+* 2023-09-05: UCG backlog bonanza
+* 2023-08-29: Do we allow zero-sized memory accesses? [Issue](https://github.com/rust-lang/opsem-team/issues/12)
+* 2023-08-22: When accessing a field that is at a "very aligned" offset, can the required alignment be higher than the type of the field indicates? [Issue](https://github.com/rust-lang/opsem-team/issues/11)
 * 2023-08-08: UCG Backlog Bonanza
 * 2023-08-01: UCG Backlog Bonanza
 * 2023-07-25: UCG Backlog Bonanza
