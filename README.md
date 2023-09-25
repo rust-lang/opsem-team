@@ -25,8 +25,8 @@ Outside of the UCG repo, much of the team's discussion happens [in the `#t-opsem
 
 ### Meetings
 
-The team holds weekly meetings. For details around scheduling and format, see the [dedicated
-page](meetings.md).
+The team holds weekly meetings. For details around scheduling and format and the
+calendar of future meetings, see the [dedicated page](meetings.md).
 
 ### FCPs
 
