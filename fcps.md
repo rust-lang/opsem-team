@@ -11,3 +11,5 @@ guaranteed.
 - Typed copies [reset all padding bytes to uninitialized memory](https://github.com/rust-lang/unsafe-code-guidelines/issues/301#issuecomment-1661617803).
 - Layout [cannot change at runtime](https://github.com/rust-lang/unsafe-code-guidelines/issues/97).
 - Unsafe code gets to [assume that `size == stride` in arrays](https://github.com/rust-lang/unsafe-code-guidelines/issues/176).
+- The `*` projection (value-to-place conversion) itself is never UB;
+  instead, inbounds/alignment checks get [deferred to later during place evaluation](https://github.com/rust-lang/reference/pull/1387).
