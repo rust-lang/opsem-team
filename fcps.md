@@ -15,3 +15,4 @@ guaranteed.
   instead, inbounds/alignment checks get [deferred to later during place evaluation](https://github.com/rust-lang/reference/pull/1387).
 - `_` patterns in `match` [do not read from the place, they only require place construction itself to succeed without UB](https://github.com/rust-lang/rust/pull/103208#issuecomment-1735947916).
 - Atomic loads [can work on read-only memory, but only under some conditions](https://github.com/rust-lang/rust/pull/115577#issuecomment-1731284113).
+- Zero-sized memory accesses and offsets [are NOPs](https://github.com/rust-lang/unsafe-code-guidelines/issues/472)
