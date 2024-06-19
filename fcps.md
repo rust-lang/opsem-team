@@ -17,3 +17,4 @@ guaranteed.
 - Atomic loads [can work on read-only memory, but only under some conditions](https://github.com/rust-lang/rust/pull/115577#issuecomment-1731284113).
 - Zero-sized memory accesses and offsets [are NOPs](https://github.com/rust-lang/unsafe-code-guidelines/issues/472)
 - The validity invariant of [slice wide pointer metadata are defined here](https://github.com/rust-lang/unsafe-code-guidelines/issues/510).
+- [Redundant StorageDead/StorageLive are legal.](https://github.com/rust-lang/rust/issues/99160#issuecomment-2155924538)
