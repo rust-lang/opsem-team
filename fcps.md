@@ -20,3 +20,6 @@ guaranteed.
 - [Int-to-pointer transmutation is questionable.](https://github.com/rust-lang/rust/pull/122379#issuecomment-1994699439)
 - [Redundant StorageDead/StorageLive are legal.](https://github.com/rust-lang/rust/issues/99160#issuecomment-2155924538)
 - [`size_of_val` is safe to call on slice-tailed unsized types with a dynamic slice length of 0.](https://github.com/rust-lang/rust/pull/126152#issuecomment-2220159220)
+
+Also see [this automatically maintained list](https://github.com/search?q=org%3Arust-lang+label%3At-opsem+label%3Afinished-final-comment-period%2Cfinal-comment-period&type=pullrequests),
+which however might not be fully accurate.
