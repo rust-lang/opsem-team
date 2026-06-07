@@ -23,6 +23,7 @@ standard library docs) are actually normative stable guarantees.
 - [`size_of_val` is safe to call on slice-tailed unsized types with a dynamic slice length of 0.](https://github.com/rust-lang/rust/pull/126152#issuecomment-2220159220)
 - [Validity of references does not depend on the contents of memory](https://github.com/rust-lang/unsafe-code-guidelines/issues/414#issuecomment-4370876572)
 - [Unions are always valid](https://github.com/rust-lang/unsafe-code-guidelines/issues/438#issuecomment-4616572154)
+- [References to uninhabited types are uninhabited](https://github.com/rust-lang/unsafe-code-guidelines/issues/413#issuecomment-4643360626)
 
 Also see [this automatically maintained list](https://github.com/search?q=org%3Arust-lang+label%3At-opsem+label%3Afinished-final-comment-period%2Cfinal-comment-period&type=pullrequests),
 which however might not be fully accurate.
