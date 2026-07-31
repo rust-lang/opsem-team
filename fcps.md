@@ -26,6 +26,7 @@ standard library docs) are actually normative stable guarantees.
 - [Unions are always valid](https://github.com/rust-lang/unsafe-code-guidelines/issues/438#issuecomment-4616572154)
 - [References to uninhabited types are uninhabited](https://github.com/rust-lang/unsafe-code-guidelines/issues/413#issuecomment-4643360626)
 - [Atomic volatile operations should be a thing](https://github.com/rust-lang/unsafe-code-guidelines/issues/615#issuecomment-4886738015)
+- [The bytes of a pointer have to stay in the original order for provenance to remain valid](https://github.com/rust-lang/unsafe-code-guidelines/issues/558#issuecomment-5144668429)
 
 Also see [this automatically maintained list](https://github.com/search?q=org%3Arust-lang+label%3At-opsem+label%3Afinished-final-comment-period%2Cfinal-comment-period&type=pullrequests),
 which however might not be fully accurate.
