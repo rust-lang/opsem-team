@@ -29,6 +29,10 @@ standard library docs) are actually normative stable guarantees.
 - [The bytes of a pointer have to stay in the original order for provenance to remain valid](https://github.com/rust-lang/unsafe-code-guidelines/issues/558#issuecomment-5144668429)
 - [Allocations are allowed to grow, but not shrink](https://github.com/rust-lang/rust/pull/159729#issuecomment-5153013962)
 - [Read-only allocations are a thing](https://github.com/rust-lang/rust/pull/159503#issuecomment-5150309157)
+- [Volatile accesses to non-AM memory may trap](https://github.com/rust-lang/rust/pull/160564)
+- [UB does not time-travel](https://github.com/rust-lang/reference/pull/2320)
+- [Closures act like `MaybeDangling`](https://github.com/rust-lang/rust/pull/160745)
+- [References to enum fields can *transiently* change the discriminant](https://github.com/rust-lang/unsafe-code-guidelines/issues/621)
 
-Also see [this automatically maintained list](https://github.com/search?q=org%3Arust-lang+label%3At-opsem+label%3Afinished-final-comment-period%2Cfinal-comment-period&type=pullrequests),
+Also see [this automatically maintained list](https://github.com/search?q=org%3Arust-lang+label%3At-opsem+label%3Afinished-final-comment-period&type=pullrequests),
 which however might not be fully accurate.
